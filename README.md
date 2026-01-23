@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sofietoender/sofietoender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in frontend development at Noroff, finishing in March 2026. I'm working on school projects to build experience and improve my skills!
 
-Here are some ideas to get you started:
+I have a bachelor's degree in audiology and currently work as a Customer Support Specialist at Omnium. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+🔹 HTML | CSS | Tailwind CSS  
+🔹 JavaScript | React | Next.js  
+🔹 Git | GitHub
+
+## What I'm Into
+💡 I enjoy creating intuitive and user-friendly designs  
+📚 Looking forward to learning more backend development in the future
+
+## My Work
+My portfolio is a work in progress, but you can see some of my projects here: **[link til portfolio]**
+
+## 📫 Connect with Me
+**LinkedIn:** [www.linkedin.com/in/sofie-tønder-5ab44a23b](https://www.linkedin.com/in/sofie-tønder-5ab44a23b)  
+**E-mail:** sofie.ts@hotmail.com
