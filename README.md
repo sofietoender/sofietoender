@@ -14,7 +14,8 @@ I have a bachelor's degree in audiology and currently work as a Customer Support
 📚 Looking forward to learning more backend development in the future
 
 ## My Work
-My portfolio is a work in progress, but you can see some of my projects here: **[link til portfolio]**
+My portfolio is a work in progress, but you can see some of my projects here:  
+👉 https://sofie-portfolio.vercel.app/
 
 ## 📫 Connect with Me
 **LinkedIn:** [www.linkedin.com/in/sofie-tønder-5ab44a23b](https://www.linkedin.com/in/sofie-tønder-5ab44a23b)  
